@@ -1,4 +1,5 @@
 import type { NextPage } from 'next';
+import '../styles/globals.css'
 import Head from 'next/head';
 import Present from '../Components/Present';
 
