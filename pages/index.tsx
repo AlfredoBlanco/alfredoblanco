@@ -1,6 +1,6 @@
 import type { NextPage } from 'next';
 import Head from 'next/head';
-import Present from '../Components/Present';
+import Present from '../components/Present';
 import { useEnglish } from '../context/englishContext';
 
 const Home: NextPage = () => {
