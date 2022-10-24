@@ -66,6 +66,7 @@ const Home: NextPage = () => {
                 </button>
             </a>
         </div>
+        <Present />
       </div>
     </div>
   )
